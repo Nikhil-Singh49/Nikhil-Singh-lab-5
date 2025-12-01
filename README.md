@@ -11,7 +11,6 @@ Food categories grid
 Featured restaurants with ratings
 
 Contact form
-
 Mobile-responsive design
 
 Quick Start
@@ -35,7 +34,5 @@ Customize
 Change #ff4c4c color in CSS
 
 Update restaurant data in HTML
-
-Replace images with your own
 
 Free for personal/commercial us
